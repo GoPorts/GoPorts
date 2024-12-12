@@ -7,7 +7,8 @@
 [![Download zip](	https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://google.com)
 [![Download zip](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://google.com)
 [![Download zip](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://google.com)
-<br />
+<br /> <br />
+ [![Download zip](https://img.shields.io/badge/repository-1-black)](https://github.com/GoPorts/Go.js/blob/main/README.md#-download) <br /> 
 <hr>
 
 
