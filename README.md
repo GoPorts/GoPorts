@@ -11,11 +11,17 @@
  [![Download zip](https://img.shields.io/badge/repository-1-black)](https://github.com/GoPorts/Go.js/blob/main/README.md#-download) <br /> 
 <hr>
 
+> [!WARNING]
+> none of the files has a virus, you can scan the files/code [VirusTotal](https://www.virustotal.com/gui/home/upload) <br />
+> if your computer mistakes one of the files as a virus,<br />
+> please add it into issues so i can fix it <br />
+
+
+<br /> <br />
 
 **GoPorts** <br />
 • About <br />
 ㅤ◦ GoPorts is a profile with repositorys with random imports to software  <br />
-ㅤㅤ· none of the files has a virus [VirusTotal](https://www.virustotal.com/gui/home/upload), if your computer mistakes one of the files as a virus, please add it into issues so i can fix it.<br />
 ㅤㅤ· Suggestions are allowed, i'd be happy to see you people's ideas! :D <br />
 
 **Repositorys** <br />
