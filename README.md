@@ -8,7 +8,7 @@
 [![Download zip](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://google.com)
 [![Download zip](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://google.com)
 <br /> <br />
- [![Download zip](https://img.shields.io/badge/repository-1-black)](https://github.com/GoPorts/Go.js/blob/main/README.md#-download) <br /> 
+ [![Download zip](https://img.shields.io/badge/repository-2-black)](https://github.com/GoPorts/Go.js/blob/main/README.md#-download) <br /> 
 <hr>
 
 > [!WARNING]
@@ -26,3 +26,4 @@
 
 **Repositorys** <br />
 ㅤㅤ· [Go.js](https://github.com/GoPorts/Go.js/tree/main) <br />
+ㅤㅤ· [Svelte+](https://github.com/GoPorts/Svelte-Plus) <br />
