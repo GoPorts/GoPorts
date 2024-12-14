@@ -23,6 +23,9 @@
 • About <br />
 ㅤ◦ GoPorts is a profile with repositorys with random imports to software  <br />
 ㅤㅤ· Suggestions are allowed, i'd be happy to see you people's ideas! :D <br />
+ㅤㅤ· Svelte+ is a tool written in TypeScript and converts simple terms into Svelte code <br />
+ㅤㅤ· Go.js is a tool which converts simple terms into Go code, similer to Svelte+ <br />
+
 
 **Repositorys** <br />
 ㅤㅤ· [Go.js](https://github.com/GoPorts/Go.js/tree/main) <br />
